@@ -6,4 +6,4 @@ def plus_two(num)
 	bindnig.pry
 end
 
-plus_two
+plus_two(3)
