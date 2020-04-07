@@ -5,3 +5,5 @@ def plus_two(num)
 	num
 	bindnig.pry
 end
+
+plus_two
